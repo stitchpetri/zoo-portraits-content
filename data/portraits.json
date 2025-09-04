@@ -1,0 +1,520 @@
+﻿[
+    {
+        "id":  "bandit-goat-2025-08-31-001-dup1",
+        "slug":  "bandit-goat",
+        "name":  "Bandit",
+        "species":  "Goat",
+        "tags":  [
+                     "goat"
+                 ],
+        "date":  "2025-09-03",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/bandit-goat/bandit-goat-2025-08-31-001-dup1.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/bandit-goat/bandit-goat-2025-08-31-001-dup1.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "humphrey-llama-2025-09-03-001",
+        "slug":  "humphrey-llama",
+        "name":  "Humphrey",
+        "species":  "Llama",
+        "tags":  [
+                     "llama"
+                 ],
+        "date":  "2025-09-03",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/humphrey-llama/humphrey-llama-2025-09-03-001.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/humphrey-llama/humphrey-llama-2025-09-03-001.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "mack-longhorn-2025-09-03-001",
+        "slug":  "mack-longhorn",
+        "name":  "Mack",
+        "species":  "Longhorn",
+        "tags":  [
+                     "longhorn"
+                 ],
+        "date":  "2025-09-03",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/mack-longhorn/mack-longhorn-2025-09-03-001.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/mack-longhorn/mack-longhorn-2025-09-03-001.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "willa-donkey-2025-09-03-001",
+        "slug":  "willa-donkey",
+        "name":  "Willa",
+        "species":  "Donkey",
+        "tags":  [
+                     "donkey"
+                 ],
+        "date":  "2025-09-03",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/willa-donkey/willa-donkey-2025-09-03-001.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/willa-donkey/willa-donkey-2025-09-03-001.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "willa-donkey-2025-09-03-002",
+        "slug":  "willa-donkey",
+        "name":  "Willa",
+        "species":  "Donkey",
+        "tags":  [
+                     "donkey"
+                 ],
+        "date":  "2025-09-03",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/willa-donkey/willa-donkey-2025-09-03-002.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/willa-donkey/willa-donkey-2025-09-03-002.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "bandit-goat-2025-08-31-001",
+        "slug":  "bandit-goat",
+        "name":  "Bandit",
+        "species":  "Goat",
+        "tags":  [
+                     "goat"
+                 ],
+        "date":  "2025-08-31",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/bandit-goat/bandit-goat-2025-08-31-001.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/bandit-goat/bandit-goat-2025-08-31-001.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "juniper-goat-2025-08-31-001",
+        "slug":  "juniper-goat",
+        "name":  "Juniper",
+        "species":  "Goat",
+        "tags":  [
+                     "goat"
+                 ],
+        "date":  "2025-08-31",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/juniper-goat/juniper-goat-2025-08-31-001.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/juniper-goat/juniper-goat-2025-08-31-001.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "louise-goat-2025-08-31-002",
+        "slug":  "louise-goat",
+        "name":  "Louise",
+        "species":  "Goat",
+        "tags":  [
+                     "goat"
+                 ],
+        "date":  "2025-08-31",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/louise-goat/louise-goat-2025-08-31-002.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/louise-goat/louise-goat-2025-08-31-002.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "louise-goat-2025-08-31-001",
+        "slug":  "louise-goat",
+        "name":  "Louise",
+        "species":  "Goat",
+        "tags":  [
+                     "goat"
+                 ],
+        "date":  "2025-08-31",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/louise-goat/louise-goat-2025-08-31-001.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/louise-goat/louise-goat-2025-08-31-001.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "pacha-pig-2025-08-31-002",
+        "slug":  "pacha-pig",
+        "name":  "Pacha",
+        "species":  "Pig",
+        "tags":  [
+                     "pig"
+                 ],
+        "date":  "2025-08-31",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/pacha-pig/pacha-pig-2025-08-31-002.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/pacha-pig/pacha-pig-2025-08-31-002.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "pacha-pig-2025-08-31-001",
+        "slug":  "pacha-pig",
+        "name":  "Pacha",
+        "species":  "Pig",
+        "tags":  [
+                     "pig"
+                 ],
+        "date":  "2025-08-31",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/pacha-pig/pacha-pig-2025-08-31-001.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/pacha-pig/pacha-pig-2025-08-31-001.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "pacha-yard-multiple-2025-08-31-001",
+        "slug":  "pacha-yard-multiple",
+        "name":  "Pacha",
+        "species":  "Yard Multiple",
+        "tags":  [
+                     "yard-multiple"
+                 ],
+        "date":  "2025-08-31",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/pacha-yard-multiple/pacha-yard-multiple-2025-08-31-001.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/pacha-yard-multiple/pacha-yard-multiple-2025-08-31-001.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "peanut-goat-2025-08-31-002",
+        "slug":  "peanut-goat",
+        "name":  "Peanut",
+        "species":  "Goat",
+        "tags":  [
+                     "goat"
+                 ],
+        "date":  "2025-08-31",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/peanut-goat/peanut-goat-2025-08-31-002.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/peanut-goat/peanut-goat-2025-08-31-002.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "peanut-goat-2025-08-31-001",
+        "slug":  "peanut-goat",
+        "name":  "Peanut",
+        "species":  "Goat",
+        "tags":  [
+                     "goat"
+                 ],
+        "date":  "2025-08-31",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/peanut-goat/peanut-goat-2025-08-31-001.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/peanut-goat/peanut-goat-2025-08-31-001.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "pris-sheep-2025-08-31-001",
+        "slug":  "pris-sheep",
+        "name":  "Pris",
+        "species":  "Sheep",
+        "tags":  [
+                     "sheep"
+                 ],
+        "date":  "2025-08-31",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/pris-sheep/pris-sheep-2025-08-31-001.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/pris-sheep/pris-sheep-2025-08-31-001.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "shirley-goat-2025-08-31-001",
+        "slug":  "shirley-goat",
+        "name":  "Shirley",
+        "species":  "Goat",
+        "tags":  [
+                     "goat"
+                 ],
+        "date":  "2025-08-31",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/shirley-goat/shirley-goat-2025-08-31-001.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/shirley-goat/shirley-goat-2025-08-31-001.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "shirley-goat-2025-08-31-002",
+        "slug":  "shirley-goat",
+        "name":  "Shirley",
+        "species":  "Goat",
+        "tags":  [
+                     "goat"
+                 ],
+        "date":  "2025-08-31",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/shirley-goat/shirley-goat-2025-08-31-002.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/shirley-goat/shirley-goat-2025-08-31-002.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "unknown-peakcock-2025-08-31-001",
+        "slug":  "unknown-peakcock",
+        "name":  null,
+        "species":  "Peakcock",
+        "tags":  [
+                     "peakcock"
+                 ],
+        "date":  "2025-08-31",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/unknown-peakcock/unknown-peakcock-2025-08-31-001.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/unknown-peakcock/unknown-peakcock-2025-08-31-001.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "wallie-sheep-2025-08-31-001",
+        "slug":  "wallie-sheep",
+        "name":  "Wallie",
+        "species":  "Sheep",
+        "tags":  [
+                     "sheep"
+                 ],
+        "date":  "2025-08-31",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/wallie-sheep/wallie-sheep-2025-08-31-001.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/wallie-sheep/wallie-sheep-2025-08-31-001.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "chance-longhorn-2025-08-27-001",
+        "slug":  "chance-longhorn",
+        "name":  "Chance",
+        "species":  "Longhorn",
+        "tags":  [
+                     "longhorn"
+                 ],
+        "date":  "2025-08-27",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/chance-longhorn/chance-longhorn-2025-08-27-001.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/chance-longhorn/chance-longhorn-2025-08-27-001.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "unknown-peakcock-2025-08-27-002",
+        "slug":  "unknown-peakcock",
+        "name":  null,
+        "species":  "Peakcock",
+        "tags":  [
+                     "peakcock"
+                 ],
+        "date":  "2025-08-27",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/unknown-peakcock/unknown-peakcock-2025-08-27-002.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/unknown-peakcock/unknown-peakcock-2025-08-27-002.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "unknown-peakcock-2025-08-27-003",
+        "slug":  "unknown-peakcock",
+        "name":  null,
+        "species":  "Peakcock",
+        "tags":  [
+                     "peakcock"
+                 ],
+        "date":  "2025-08-27",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/unknown-peakcock/unknown-peakcock-2025-08-27-003.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/unknown-peakcock/unknown-peakcock-2025-08-27-003.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "unknown-peakcock-2025-08-27-001",
+        "slug":  "unknown-peakcock",
+        "name":  null,
+        "species":  "Peakcock",
+        "tags":  [
+                     "peakcock"
+                 ],
+        "date":  "2025-08-27",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/unknown-peakcock/unknown-peakcock-2025-08-27-001.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/unknown-peakcock/unknown-peakcock-2025-08-27-001.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "unknown-porcupine-2025-08-27-001",
+        "slug":  "unknown-porcupine",
+        "name":  null,
+        "species":  "Porcupine",
+        "tags":  [
+                     "porcupine"
+                 ],
+        "date":  "2025-08-27",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/unknown-porcupine/unknown-porcupine-2025-08-27-001.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/unknown-porcupine/unknown-porcupine-2025-08-27-001.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "willa-donkey-2025-08-27-001",
+        "slug":  "willa-donkey",
+        "name":  "Willa",
+        "species":  "Donkey",
+        "tags":  [
+                     "donkey"
+                 ],
+        "date":  "2025-08-27",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/willa-donkey/willa-donkey-2025-08-27-001.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/willa-donkey/willa-donkey-2025-08-27-001.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "zilker-parker-emu-2025-08-27-002",
+        "slug":  "zilker-parker-emu",
+        "name":  "Zilker",
+        "species":  "Emu",
+        "tags":  [
+                     "emu"
+                 ],
+        "date":  "2025-08-27",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/zilker-parker-emu/zilker-parker-emu-2025-08-27-002.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/zilker-parker-emu/zilker-parker-emu-2025-08-27-002.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "zilker-parker-emu-2025-08-27-001",
+        "slug":  "zilker-parker-emu",
+        "name":  "Zilker",
+        "species":  "Emu",
+        "tags":  [
+                     "emu"
+                 ],
+        "date":  "2025-08-27",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/zilker-parker-emu/zilker-parker-emu-2025-08-27-001.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/zilker-parker-emu/zilker-parker-emu-2025-08-27-001.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "zilker-parker-emu-2025-08-27-003",
+        "slug":  "zilker-parker-emu",
+        "name":  "Zilker",
+        "species":  "Emu",
+        "tags":  [
+                     "emu"
+                 ],
+        "date":  "2025-08-27",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/zilker-parker-emu/zilker-parker-emu-2025-08-27-003.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/zilker-parker-emu/zilker-parker-emu-2025-08-27-003.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "wallie-sheep-2025-08-24-001",
+        "slug":  "wallie-sheep",
+        "name":  "Wallie",
+        "species":  "Sheep",
+        "tags":  [
+                     "sheep"
+                 ],
+        "date":  "2025-08-24",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/wallie-sheep/wallie-sheep-2025-08-24-001.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/wallie-sheep/wallie-sheep-2025-08-24-001.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "java-snake-2025-07-26-001",
+        "slug":  "java-snake",
+        "name":  "Java",
+        "species":  "Snake",
+        "tags":  [
+                     "snake"
+                 ],
+        "date":  "2025-07-26",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/java-snake/java-snake-2025-07-26-001.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/java-snake/java-snake-2025-07-26-001.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "garnet-goat-2025-07-10-001",
+        "slug":  "garnet-goat",
+        "name":  "Garnet",
+        "species":  "Goat",
+        "tags":  [
+                     "goat"
+                 ],
+        "date":  "2025-07-10",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/garnet-goat/garnet-goat-2025-07-10-001.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/garnet-goat/garnet-goat-2025-07-10-001.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "garnet-goat-2025-07-10-002",
+        "slug":  "garnet-goat",
+        "name":  "Garnet",
+        "species":  "Goat",
+        "tags":  [
+                     "goat"
+                 ],
+        "date":  "2025-07-10",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/garnet-goat/garnet-goat-2025-07-10-002.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/garnet-goat/garnet-goat-2025-07-10-002.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "kuzco-llama-2025-07-10-001",
+        "slug":  "kuzco-llama",
+        "name":  "Kuzco",
+        "species":  "Llama",
+        "tags":  [
+                     "llama"
+                 ],
+        "date":  "2025-07-10",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/kuzco-llama/kuzco-llama-2025-07-10-001.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/kuzco-llama/kuzco-llama-2025-07-10-001.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "clover-coyote-2025-07-06-001",
+        "slug":  "clover-coyote",
+        "name":  "Clover",
+        "species":  "Coyote",
+        "tags":  [
+                     "coyote"
+                 ],
+        "date":  "2025-07-06",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/clover-coyote/clover-coyote-2025-07-06-001.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/clover-coyote/clover-coyote-2025-07-06-001.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "norman-sheep-2025-07-03-001",
+        "slug":  "norman-sheep",
+        "name":  "norman",
+        "species":  "Sheep",
+        "tags":  [
+                     "sheep"
+                 ],
+        "date":  "2025-07-03",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/norman-sheep/norman-sheep-2025-07-03-001.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/normal-sheep/normal-sheep-2025-07-03-001.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "kuzco-llama-2025-06-19-001",
+        "slug":  "kuzco-llama",
+        "name":  "Kuzco",
+        "species":  "Llama",
+        "tags":  [
+                     "llama"
+                 ],
+        "date":  "2025-06-19",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/kuzco-llama/kuzco-llama-2025-06-19-001.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/kuzco-llama/kuzco-llama-2025-06-19-001.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    },
+    {
+        "id":  "kuzco-llama-2025-06-19-002",
+        "slug":  "kuzco-llama",
+        "name":  "Kuzco",
+        "species":  "Llama",
+        "tags":  [
+                     "llama"
+                 ],
+        "date":  "2025-06-19",
+        "image":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/kuzco-llama/kuzco-llama-2025-06-19-002.jpg",
+        "thumb":  "https://raw.githubusercontent.com/stitchpetri/zoo-portraits-content/main/photos/kuzco-llama/kuzco-llama-2025-06-19-002.jpg",
+        "location":  "Austin Zoo",
+        "credit":  "Amanda Roche"
+    }
+]
